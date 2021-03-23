@@ -1,0 +1,26 @@
+.navbar-custom{
+    background-color:#3f3f3f;
+}
+#border1{
+    border-color: #4d0000 !important;
+
+}
+#border2{
+ border-color:#800000 !important;
+}
+#border3{
+ border-color: #e05a00 !important;
+}
+#title{
+    display:none;
+}
+
+@media screen and (min-width: 863px) {
+    #title {
+        background: #000;
+        display:inline-block;
+        float: left;
+        margin: 10px auto 5px 20px;
+        width: 100%;
+    }
+}
